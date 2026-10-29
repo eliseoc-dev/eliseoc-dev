@@ -153,5 +153,5 @@ My long-term goal is to work in hybrid technical roles combining AI with Data, S
 ## Contact
 
 - GitHub: You are already here
-- LinkedIn: Coming soon
+- LinkedIn: https://www.linkedin.com/in/eliseo-canales-m124447/
 - Portfolio: Coming soon
